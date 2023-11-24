@@ -95,7 +95,7 @@ void ExibirTituloDaOpcao(string titulo)
 
 void AvaliarUmaBanda()
 {
-    // digite qual banda deseja avaliar
+    // digitar qual banda deseja avaliar
     // se a banda existir no dicionario >> atribuir uma nota
     // senão volta ao menu principal
 
